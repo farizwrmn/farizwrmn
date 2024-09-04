@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There!
 🌱 I’m currently open to entry level opportunity to grow professionally<br>🤝 I’m ready to contribute on Web Development, Frontend Development, Software Engineering, and UI/UX Design <br>🌊 I’m currently learning front end animation with GSAP<br>💬 Ask me about the latest Software Updates, Unique features in Web or App, AI Progress, Simplified Codes, etc<br>⚡ Fun fact: using AI sometimes make us lazy but that is the point of progressing in modern society, for example planting a rice by hand vs by rice planting machine<br>
 
 
